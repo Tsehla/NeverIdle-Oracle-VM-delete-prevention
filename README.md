@@ -1,5 +1,20 @@
 # NeverIdle
 
+----
+
+  Keep oracle allways free vm withing usage requirements to avoid delition or resource reclamation
+  
+  
+  -- english
+  
+  https://blog.51sec.org/2023/02/oracle-cloud-cleaning-up-idle-compute.html
+  
+  https://www.youtube.com/watch?v=nEwGDrocrg4
+
+
+
+----
+
 *我喜欢你，但别删我机，好么？*
 
 本程序随手写的，下面介绍也是随心写的，不喜勿碰。
